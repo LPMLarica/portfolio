@@ -28,7 +28,8 @@ st.write(
     """
     - Bachelor of Science in Computer Science - UNITRI (2027)
     - Fluent in Portuguese and English by Cultura Inglesa
-    - 3 years of experience in FrontEnd Development
+    - 1 year of experience in FrontEnd Development
+    - 2 years of experience in Unity 3D
     """
 )
 

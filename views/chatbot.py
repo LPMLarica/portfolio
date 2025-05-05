@@ -6,8 +6,7 @@ import streamlit as st
 def response_generator():
     response = random.choice(
         [
-            "Hello! How can I help you today?",
-            "Hi there! What can I do for you?",
+            "To contact me, click on the 'Contact Me' button at about me page.",
         ]
     )
     for word in response.split():
